@@ -12,11 +12,11 @@ Welcome to the Python Snake Game! This repository hosts a Python implementation 
 
 #### How to Play:
 1. **Clone the Repository**:
-2. https://github.com/Probityrajdeep/Snake-game-python-
+   https://github.com/Probityrajdeep/Snake-game-python-
 3. **Install Dependencies**:
-4. pip install -r requirements.txt3.
+   pip install -r requirements.txt3.
 5. **Launch the Game**:
-6. python snake_game.py
+   python snake_game.py
 7. #### Controls:
 - Use the arrow keys (up, down, left, right) to control the snake's direction.
 - Press the 'Esc' key to exit the game.
