@@ -30,3 +30,20 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 #### Contact:
 For questions or suggestions, feel free to contact the repository owner:
 - Email: emailrajdeepmishra@gmail.com
+#### Install Dependencies (Termux):
+```bash
+1. First, install the necessary packages using the Termux package manager:
+   pkg install python
+   pkg install git
+   pkg install libsdl2-dev
+   pkg install sdl2_ttf-dev
+   pkg install sdl2_image-dev
+
+2. Next, clone the Pygame_SDL2 repository:
+   git clone https://github.com/renpy/pygame_sdl2.git
+
+3. Change into the pygame_sdl2 directory:
+   cd pygame_sdl2
+
+4. Install Pygame_SDL2 using pip:
+   pip install .
